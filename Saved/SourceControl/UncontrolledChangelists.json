@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Users/Emil/Documents/Unreal Projects/UE4_5/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/UE4_5/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap",
+				"D:/Users/Emil/Documents/Unreal Projects/UE4_5/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/UE4_5/Content/BP_SC.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/UE4_5/Content/RT.uasset"
+			]
+		}
+	]
+}
